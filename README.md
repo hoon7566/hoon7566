@@ -43,7 +43,6 @@
 
 <h3 align="center"> INTRODUCE 😊 </h3>
 <pre align="center">
-  Junior Java Developer 백창훈입니다.</br>
   - 새로운 기술을 배우고 실제 프로젝트에 적용시키는 일에 흥미를 느낍니다.</br>
   - 테스트를 중요하게 생각하고 읽기 좋은 코드를 쓰기 위해 노력합니다.</br>
   - 어제보다 성장하는 개발자가 되기 위해 매일 노력하고 있습니다.
